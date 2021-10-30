@@ -16,7 +16,7 @@ export default {
 
 <style>
   #header{
-    background-color: goldenrod;
+    background-color: #fff;
     text-align: center;
   }
 </style>

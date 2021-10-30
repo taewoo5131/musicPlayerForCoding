@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <intro-header></intro-header>
-    <intro-body></intro-body> 
+    <music-search></music-search> 
   </div>
 </template>
 <script>
 import introHeader from './components/IntroHeader.vue'
-import introBody from './components/IntroBody.vue'
+import musicSearch from './components/musicSearch.vue'
 
 export default {
   components: {
     'intro-header': introHeader,
-    'intro-body': introBody
+    'music-search': musicSearch
   }
 }
 </script>
