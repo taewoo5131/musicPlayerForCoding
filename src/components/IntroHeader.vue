@@ -8,7 +8,7 @@
 export default {
     data: function() {
         return {
-            introMsg: '코딩할때 노래듣기'
+            introMsg: ''
         }
     }
 }
